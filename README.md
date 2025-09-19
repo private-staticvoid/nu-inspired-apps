@@ -1,6 +1,6 @@
 # 📚 NU Apps
 
-A collection of simple Java-based applications created for practice and learning.
+A collection of simple Java-based applications created in **2023** while learning **Intermediate Programming**.
 
 ---
 
