@@ -2,7 +2,7 @@
 
 A collection of simple Java-based applications created in **2023** while learning **Intermediate Programming**.
 
----
+----
 
 ## 🏛 NU Library
 A basic library management system in Java.  
@@ -12,7 +12,7 @@ A basic library management system in Java.
 
 📂 Folder: `NU-Library`
 
----
+----
 
 ## 📐 NU Shape Calculator
 A shape calculator written in Java for quick geometry practice.  
@@ -22,7 +22,7 @@ A shape calculator written in Java for quick geometry practice.
 
 📂 Folder: `NU-Shape-Calculator`
 
----
+----
 
 ## ⚙️ How to Run
 1. Install **Java JDK 8 or higher**  
